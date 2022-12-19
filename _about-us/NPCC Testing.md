@@ -3,7 +3,6 @@ title: NPCC Testing
 permalink: /NPCCTesting/
 description: ""
 ---
-
 ## Welcome to NPCC
 ##### Welcome to NPCC
 
@@ -18,3 +17,4 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     | Text     |
 
+![](/images/Para%202%20(GOH).jpeg)
