@@ -17,3 +17,6 @@ Police Cadet Corps (PCC) was set up with the aim to break the barrier between th
 On 2 Jun 1961, the Police Cadet Corps Ordinance was enacted. All schools were given approval to set up PCC units. Siglap Secondary School and Serangoon Garden Government High School were the first to form such units. The PCC and the National Cadet Corps (NCC) came under the administration of the Ministry of Education (MOE) with the Director of Education as the Director of Cadet Forces in 1963 and in the following year, the PCC recruited female cadets. Two new units were formed in the Raffles' Girls' Secondary School and Sang Nila Utama Secondary School.
 
 In 1968, Formation signs were introduced for unit identity. In 1969, with the integration of PCC, Army, Air & Sea, the PCC was renamed National Cadet Corps (Police).
+<br>
+
+***1969 - 1978 Marching Forward***
