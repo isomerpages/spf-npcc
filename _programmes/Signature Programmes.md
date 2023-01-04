@@ -40,3 +40,13 @@ The Enhanced CSI is for the Sec 3 cadets where they will have an interactive han
 #### **Revolver 0.22 Live Shoot for Sec 2 and 3 cadets**
         
 NPCC HQ trains interested Sec 2 cadets and all Sec 3 cadets in the safe handling (Dry Practice) of the 0.22 Smith and Wesson revolver before allowing them to experience the live shoot in the Home Team Academy (HTA) range. Dry Practice sessions will introduce the cadets to the actual revolver in the form of both theory and practical lessons. Cadets will learn the marksmanship principles, safe handling of the revolver and immediate action drills to prepare them for the live shoot. The scores they obtained in Sec 3 during the live shoot will determine if they will receive the Marksmanship badge.
+
+![](/images/Figure-2-target-with-points.jpg)
+<center>Figure 2 target with points</center>
+
+![](/images/Marksmanship-Badge.jpg)
+<center>Marksmanship Badge</center>
+
+#### **Revolver 0.38 Live Shoot for TOs, HOs and CIs**
+      
+Besides the cadets, the TOs, HOs and CIs are also trained in the safe handling of the 0.38 Taurus revolver before the live shoot in the Home Team Academy (HTA) range.
