@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Mission, Vision & Values.md
       - Commandant's Foreword.md
       - Our History.md
