@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2u6sm8qvxmmsl.amplifyapp.com
 prod: https://master.d2u6sm8qvxmmsl.amplifyapp.com
 resources_name: resources
-shareicon: /images/logo.png
+shareicon: /images/National_Police_Cadet_Corps_Logo_2018.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
