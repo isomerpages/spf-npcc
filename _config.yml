@@ -3,7 +3,7 @@ url: https://www.npcctest.org.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#082759"
-  secondary-color: "#4372d6"
+  secondary-color: "#082759"
   media-colors:
     - title: media-color-one
       color: "#49759a"
