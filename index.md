@@ -2,7 +2,7 @@
 layout: homepage
 title: National Police Cadet Corps (NPCC)
 description: An Isomer site of the Singapore Government
-image: /images/logo.png
+image: /images/National_Police_Cadet_Corps_Logo_2018.jpg
 permalink: /
 notification: ""
 sections:
@@ -29,5 +29,6 @@ sections:
         contributes towards making Singapore the safest place in the world!
       url: /faq/
 ---
+
 
 
