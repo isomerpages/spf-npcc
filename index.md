@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Know About NPCC
           description: ""
-          url: https://google.com
+          url: ""
         - title: Programmes
           description: ""
           url: https://gmail.com
