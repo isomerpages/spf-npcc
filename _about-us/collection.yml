@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Training Principles.md
       - Commandant's Foreword.md
       - Our History.md
       - Mission, Vision & Values.md
       - NPCC Pledge.md
       - Our People.md
+      - Training Principles.md
