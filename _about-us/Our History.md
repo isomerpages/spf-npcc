@@ -20,3 +20,11 @@ In 1968, Formation signs were introduced for unit identity. In 1969, with the in
 <br>
 
 ***1969 - 1978 Marching Forward***
+       
+The beginning of 1969 saw the arm, sea, air and police cadet movements coming under a common structure with Police taking on the title of National Cadet Corps (Police). It was a decade of expansion as the Corps grew at an extraordinary pace.
+
+In 1970, a Cadet Inspectors' unit was formed from students in Pre-U classes. The NCC (Police) was then renamed National Police Cadet Corps (NPCC) in 1971.
+
+In 1972, the "grey and khaki" uniform was changed to the present blue. In 1974, the NPCC Council was established by an Act of Parliament. On 1 Apr 1975, the NPCC Council was inaugurated by the then Minister for Education, Dr Lee Chiaw Meng.
+
+In 1976, the NPCC Band recruited girl cadets. The NPCC service medals and clasps were introduced for officers in 1979 and a year later, Proficiency Badges were introduced.
