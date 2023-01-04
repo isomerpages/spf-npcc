@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - NPCC Pledge.md
       - Commandant's Foreword.md
       - Our History.md
       - Mission, Vision & Values.md
+      - NPCC Pledge.md
