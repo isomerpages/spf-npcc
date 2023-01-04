@@ -9,7 +9,6 @@ sections:
   - hero:
       title: National Police Cadet Corps
       background: /images/cadet-corps.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: About Us
@@ -25,9 +24,8 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: National Police Cadet Corps
+      description: Join us and be part of a youth organisation which actively
+        contributes towards making Singapore the safest place in the world!
       url: /faq/
 ---
