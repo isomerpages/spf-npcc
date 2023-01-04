@@ -71,3 +71,16 @@ In Secondary Two, a cadet will have the opportunity to go through the Basic Law 
         
 In achieving its objectives in building resilience among its campers, Camp Resilience encourages outdoor activities, ranging from obstacle courses to sea activities, to allow the campers to enjoy an outdoor experiential learning during their stay. Essentially, the obstacle courses at Camp Resilience mainly refers to the High Ropes Challenge.
 
+![](/images/Camp-Resilience.jpg)
+
+### Overseas Educational Visits
+        
+The Overseas Educational Visits (OEVs) aim to broaden the mental horizon of cadets through first-hand knowledge of the social and culture aspect of our overseas counterparts. The OEVs will also allow our cadets to understand the workings of foreign Police-Youth establishments and interact with youths from other countries. NPCC has organised overseas visits to Brunei and Hong Kong.
+
+The objectives for the OEVs are as follows:
+* Develop self, social, and global awareness, and relationship management of cadets through learning more about another country and foreign Police-Youth establishment;
+* Develop self-confidence, teamwork, and critical and inventive thinking of cadets;
+* Maintain close long-term relationships between the NPCC and the foreign Police-Youth establishments.
+
+Visit to the Royal Brunei Police Force (Polis Diraja Brunei \[PDB\]) and Royal Brunei Police Cadet Corps (Pasukan Kadet Police Diraja Brunei \[PKP\]).
+
