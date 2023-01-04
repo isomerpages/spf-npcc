@@ -54,3 +54,20 @@ Besides the cadets, the TOs, HOs and CIs are also trained in the safe handling o
 ![](/images/home-team-academy01.jpg)
 
 ### Law and Enforcement
+       
+Have you wondered what a police officer needs to know to perform their duties? Check it out in the Police Procedures Course and Basic Law Course!
+
+In Secondary One, cadets of the National Police Cadet Corps will have the opportunity to go through the Police Procedures Course. The Police Procedures Course covers the following:
+* Roles of police officers;
+* Procedures when handling emergency cases.
+       
+In Secondary Two, a cadet will have the opportunity to go through the Basic Law Course. The Basic Law Course covers the following:
+* Criminal Law;
+* The role of law and enforcement in a peaceful and stable society;
+* Elements of crime;
+* Definition of common criminal offences such as theft, bullying and outrage of modesty.
+
+### Camp Resilience
+        
+In achieving its objectives in building resilience among its campers, Camp Resilience encourages outdoor activities, ranging from obstacle courses to sea activities, to allow the campers to enjoy an outdoor experiential learning during their stay. Essentially, the obstacle courses at Camp Resilience mainly refers to the High Ropes Challenge.
+
