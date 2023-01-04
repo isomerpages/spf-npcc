@@ -49,3 +49,7 @@ The Corps embarked on more overseas exchange programmes with its counterparts in
 In 1994, a new Unit Overall Proficiency Award (UOPA) was introduced to raise the standard of proficiency and efficiency in all units. Each unit was to be assessed on conformity to policies and training plans to produce useful citizens, performance in competitions that reflect the proficiency and interest of the unit as well as efficiency in the running of NPCC matters throughout the year.
 
 ***<u>2009 - 2018 Timeless Values, Transforming Beyond</u>***
+
+The Corps worked towards strengthening the Police-NPCC partnership in moulding cadets’ as active citizens. Through realistic learning experiences, the programme allows cadets to develop their resilience and have the confidence in applying the proper rules of engagement in appropriate situations, thus fulfilling the Corps’ Mission.
+
+***<u>2019 - Present Entering the New Era</u>***
