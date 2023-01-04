@@ -29,3 +29,9 @@ Crime Scene Investigation (CSI) is a form of forensic science which supports inv
 |
         
 The Enhanced CSI is for the Sec 3 cadets where they will have an interactive hands-on experience by going through a series of crime scenes set up in mock-up HDB flats and the Virtual Reality (VR) On-Scene Investigation in Home Team Academy (HTA). This will allow them to have hands-on experience and apply the crime scene management skills which they have learnt.
+
+![](/images/VR-in-Training-Village.jpg)
+<center> VR in Training Village</center>
+
+![](/images/CSI-in-Unit.jpg)
+<center> CSI in Unit</center>
