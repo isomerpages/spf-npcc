@@ -11,7 +11,7 @@ sections:
       background: /images/cadet-corps.jpg
       url: /contact-us/
       key_highlights:
-        - title: About Us
+        - title: Know About NPCC
           description: ""
           url: https://google.com
         - title: Programmes
