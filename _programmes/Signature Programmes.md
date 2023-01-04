@@ -35,3 +35,6 @@ The Enhanced CSI is for the Sec 3 cadets where they will have an interactive han
 
 ![](/images/CSI-in-Unit.jpg)
 <center> CSI in Unit</center>
+
+### Revolver Shoot
+#### **Revolver 0.22 Live Shoot for Sec 2 and 3 cadets**
