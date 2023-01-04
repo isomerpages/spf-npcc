@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Know About NPCC
           description: ""
-          url: ""
+          url: /CommandantForeword/
         - title: Programmes
           description: ""
           url: ""
