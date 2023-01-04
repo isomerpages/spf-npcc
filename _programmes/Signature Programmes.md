@@ -84,3 +84,12 @@ The objectives for the OEVs are as follows:
 
 Visit to the Royal Brunei Police Force (Polis Diraja Brunei \[PDB\]) and Royal Brunei Police Cadet Corps (Pasukan Kadet Police Diraja Brunei \[PKP\]).
 
+![](/images/polis-diraja-brunei.jpg)
+
+![](/images/pasukan-kadet-police-diraja-brunei.jpg)
+        
+Visit to the Hong Kong Police Force (香港警務處 xiāng gǎng jǐng wù chù \[HKPF\]) and Hong Kong Junior Police Call (少年警訊 shào nián jǐng xùn \[JPC\]).
+
+![](/images/hong-kong-police-force.jpg)
+
+![](/images/hong-kong-junior-police.jpg)
