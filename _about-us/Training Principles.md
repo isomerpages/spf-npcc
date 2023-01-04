@@ -23,9 +23,9 @@ This framework sets a natural progressive learning path of an NPCC member, start
 
 With the 6A framework, NPCC creates meaningful learning experiences and modules with appropriate outcomes within the NPCC curriculum to help develop our NPCC members.
 
-
-
-
-
-
-
+Our NPCC curriculum focuses on the following five aspects:
+* Law enforcement
+* Leadership
+* Resilience
+* National Education
+* Personal Development
