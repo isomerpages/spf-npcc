@@ -52,4 +52,6 @@ In 1994, a new Unit Overall Proficiency Award (UOPA) was introduced to raise the
 
 The Corps worked towards strengthening the Police-NPCC partnership in moulding cadets’ as active citizens. Through realistic learning experiences, the programme allows cadets to develop their resilience and have the confidence in applying the proper rules of engagement in appropriate situations, thus fulfilling the Corps’ Mission.
 
-***<u>2019 - Present Entering the New Era</u>***
+***<u>2019 - Present Entering the New Era</u>***        
+
+As NPCC emerges out of the COVID-19 pandemic, we navigate unchartered waters with resilience and innovation. NPCC pivoted a shift to engage cadets in greater depth to learn about police investigation, with programmes such as Basic Law, Crime Scene Investigation and Police Procedures.
