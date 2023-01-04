@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: National Police Cadet Corps
-      background: /images/Thumbnail.png
+      background: /images/cadet-corps.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
