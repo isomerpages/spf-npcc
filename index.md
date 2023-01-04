@@ -16,7 +16,7 @@ sections:
           url: ""
         - title: Programmes
           description: ""
-          url: https://gmail.com
+          url: ""
         - title: NPCC Events
           description: ""
           url: /privacy/
