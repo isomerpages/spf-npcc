@@ -15,4 +15,17 @@ The four-hour course equips the cadets with the basic knowledge of self-defense 
 
 ![](/images/Unarmed-Tactics-02_lowres-1.jpg)
 
-### 
+### Crime Scene Investigation
+Crime Scene Investigation (CSI) is a form of forensic science which supports investigation, leading the authorities or the police to the facts behind an incident or a crime scene. This course is conducted for Sec 1 and 2 cadets where they will have the opportunity to learn how to solve a crime via the following lessons:
+
+
+| Modules | Levels | 
+| -------- | -------- | 
+| Introduction to CSI     | Sec 1     |
+| Introduction to Fingerprint Dusting     | Sec 1     |
+| Police Photography     | Sec 2     |
+| Deoxyribonucleic Acid (DNA) Analysis     | Sec 2     |
+| Blood Stain Pattern Analysis (BSPA)     | Sec 2
+|
+        
+The Enhanced CSI is for the Sec 3 cadets where they will have an interactive hands-on experience by going through a series of crime scenes set up in mock-up HDB flats and the Virtual Reality (VR) On-Scene Investigation in Home Team Academy (HTA). This will allow them to have hands-on experience and apply the crime scene management skills which they have learnt.
