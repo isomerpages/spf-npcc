@@ -50,3 +50,7 @@ NPCC HQ trains interested Sec 2 cadets and all Sec 3 cadets in the safe handling
 #### **Revolver 0.38 Live Shoot for TOs, HOs and CIs**
       
 Besides the cadets, the TOs, HOs and CIs are also trained in the safe handling of the 0.38 Taurus revolver before the live shoot in the Home Team Academy (HTA) range.
+
+![](/images/home-team-academy01.jpg)
+
+### Law and Enforcement
