@@ -2,5 +2,5 @@ collections:
   npcc-events:
     output: true
     order:
-      - SPF NPCC Badge Presentation Ceremony.md
       - NPCC Annual Parade.md
+      - SPF NPCC Badge Presentation Ceremony.md
