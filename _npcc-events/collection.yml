@@ -1,0 +1,4 @@
+collections:
+  npcc-events:
+    output: true
+    order: []
