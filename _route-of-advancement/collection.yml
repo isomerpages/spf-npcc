@@ -1,4 +1,5 @@
 collections:
   route-of-advancement:
     output: true
-    order: []
+    order:
+      - Cadets.md
