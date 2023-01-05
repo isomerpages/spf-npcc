@@ -21,3 +21,9 @@ The 2nd Class Drill badge may be awarded to a cadet who is already the holder of
 ![](/images/2nd-Class-Drill-01.jpg)
 
 ![](/images/2nd-Class-Drill-02.jpg)
+
+#### **1st Class Drill**
+
+The 1st Class Drill badge may be awarded to a cadet who is already the holder of the 2nd Class Drill Badge and who has passed the following tests conducted twice a year at unit level.
+<ol>a) Have the knowledge of the advance rifle drills.</ol>
+<ol>b) Able to organise and conduct a muster parade at unit level.</ol>
