@@ -57,3 +57,18 @@ Interested Units may also have their Secondary Two Cadets participate in the Roa
 
 #### **SGSecure & Homefront Security**
 
+        
+The SGSecure Course is conducted by our SPF SGSecure Facilitators from the Training Command for Secondary One Cadets. With the current COVID-19 pandemic, the SGSecure Course is currently conducted online.
+
+The course aims to equip cadets with three core actions that they can do in the fight against terrorism:
+* Staying Alert to prevent a terrorist attack and to keep yourself safe in the event of an attack;
+* Staying United to help on another, especially after an attack; and
+* Staying Strong to safeguard our social fabric and bounce back as one people.
+
+The Homefront Security (HFS) Course is conducted online for Secondary Three Cadets.
+The course aims to equip cadets with the relevant knowledge as follows:
+* Greater awareness on specific threats like chemical, biological and radiological, and the consequences attributed to terrorism;
+* Skills and knowledge in identifying suspicious persons or items found in public places and transport; and
+* Public Warning System and Emergency Evacuation Procedures.
+
+The Homefront Security badge is awarded to a Secondary Three cadet who has completed the Homefront Security Course and passed a written test at the end of the course.
