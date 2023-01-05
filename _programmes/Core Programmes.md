@@ -146,3 +146,63 @@ Some topics that would be covered are:
 * Measuring distance on the nautical chart;
 * Understanding the Maritime Buoyage System.
 
+![](/images/Basic-Coastal-Navigation-01.jpg)
+
+![](/images/Basic-Coastal-Navigation-02.jpg)
+
+**Basic Seamanship**
+
+Seamanship is the art, knowledge and competence of operating a ship. In this course, NPCC (Sea) cadets would learn key elements to seamanship; namely, boat handling, safety of life at sea and navigation. Topics covered under each component would be as follows.
+
+<u>Boat Handling</u>
+* Ropework on knots bends, hitches, lashings and splicing;
+* Understanding of tidal streams.
+
+<u>Safety of Life at Sea</u>
+* Maritime Emergencies;
+* Life Saving appliances;
+* Fire Fighting appliances.
+
+<u>Navigation</u>
+* Collision Regulations (Rules of the Road)
+
+### Kayaking 1 & 2 Star
+
+<u>Kayaking Course</u>
+
+        
+The National Police Cadet Corps (Sea) organises the Kayaking (up to 2 Star courses) for Sea Unit cadets. The objective of the course is to build the cadets’ water confidence at sea. Upon completion of the course, the cadets would earn the Kayaking Badge.
+
+The duration of the courses is as follows:
+<ol>a) Two days for Kayaking 1 Star Award</ol>
+<ol>b) Three days for Kayaking 2 Star Award</ol>
+
+### Sea Survival Training
+
+  
+As some of the training for NPCC (Sea) cadets are conducted out at sea, the cadets are provided with the basic skillsets to be able to survive at sea in the event of a mishap. The sea survival training provides the cadets with guidance and information to gain knowledge, understanding and proficiency required in personal survival techniques.
+
+Cadets should be able to demonstrate the ability to:
+* correctly don a buoyancy vest;
+* launch and activate a liferaft;
+* correctly & safely drop from height into the water;
+* swim 50 metres to the liferaft with the aid of a buoyancy vest;
+* board a liferaft;
+* rescue a survivor with a lifebuoy.
+
+![](/images/Sea-Survival-Training.jpg)
+
+### Navigation Sortie
+
+In this sortie, cadets will have a hands-on experience to demonstrate what they have learnt in the Maritime Training modules.
+
+At the end of the sortie, cadets would have the knowledge to be able to:
+* use nautical charts & publications;
+* visually identify charted landmarks and important beacons;
+* shoot bearings with a magnetic compass;
+* identify International Code of Signals displayed on vessels;
+* understand the applications of selected collision regulations;
+* understand the procedures in different kinds of emergencies;
+* understand the International Buoyage System.
+
+![](/images/Navigation-Sortie.jpg)
