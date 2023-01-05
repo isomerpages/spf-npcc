@@ -13,7 +13,10 @@ Honorary Officers are adult leaders appointed to the Corps to assist Teacher Off
 
 
 
-| Column 1 | Column 2 | Column 3 |
+|  | Male | Female |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| National Service     | Completed NS liabilities     | NA     |
+| Nationality     | Singaporean citizen or permanent resident     | Singaporean citizen or permanent resident      |
+| Age     | Above 22 years old     | Above 22 years old     |
+| Education Qualification     | Minimum 'A' level or Diploma     | Minimum 'A' level or Diploma     |
+| Others     | An applicant must be recommended by the OC Unit (NPCC) or Staff Officer (NPCC HQ). An exception is made for applicants from NTU and NUS who join through the open units. They would be appointed as HOs after the successful completion of the Honorary Officers Basic Training Course.     | An applicant must be recommended by the OC Unit (NPCC) or Staff Officer (NPCC HQ). An exception is made for applicants from NTU and NUS who join through the open units. They would be appointed as HOs after the successful completion of the Honorary Officers Basic Training Course.     |
