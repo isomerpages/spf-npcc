@@ -2,5 +2,5 @@ collections:
   route-of-advancement:
     output: true
     order:
-      - Cadet Inspectors.md
       - Cadets.md
+      - Cadet Inspectors.md
