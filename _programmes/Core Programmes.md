@@ -72,3 +72,22 @@ The course aims to equip cadets with the relevant knowledge as follows:
 * Public Warning System and Emergency Evacuation Procedures.
 
 The Homefront Security badge is awarded to a Secondary Three cadet who has completed the Homefront Security Course and passed a written test at the end of the course.
+
+#### **Visit to Police Establishments**
+
+Want to check out the difference between the past and present Singapore Police Force and how a Neighbourhood Police Centre operates? Cadets will have the opportunity to experience the following during their journey with NPCC:
+* Police Heritage Centre
+* Neighbourhood Police Centre
+* Home Team Gallery
+* Police Coast Guard
+
+#### **Community Outreach**
+
+Cadets will have the opportunity to take part in the following Community Outreach Programmes organised by the schools:
+* Community Safety and Security Programme (CSSP) for Secondary Two Cadets; and
+* Police Youth Ambassador (PYA) Programme for Secondary Three Cadets.
+
+The objectives of the programmes are to educate cadets to understand that:
+* To be socially conscious is to take ownership of educating the community of safety and security, as well as to assist in enforcing those values and beliefs through actions; and
+* Taking ownership in improving the safety and security of the community is an important part of being socially conscious - serving the common good.
+
