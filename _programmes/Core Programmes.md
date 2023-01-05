@@ -45,3 +45,12 @@ Cadets will also have the opportunity to learn different campcraft skills.
 ![](/images/Screenshot_20230105_112247_Samsung%20Internet.jpg)
 
 You will get a chance to learn the above skills and , in the process, build resilience in yourself and teamwork among your teammates.
+
+#### **Road Safety**
+
+The Road Safety Course is conducted online for Secondary One Cadets as part of the requirement to attain proficiency badges under the SPF-NPCC Badge category. The purpose of the course is to better understand the basics of road safety, such as:
+* Traffic Signs and Signals;
+* Road Safety for Pedestrians & Pedal Cyclists; and
+* Crime Prevention Tips for Road Safety.
+
+Interested Units may also have their Secondary Two Cadets participate in the Road Safety Marshalling duty.
