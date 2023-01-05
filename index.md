@@ -16,7 +16,7 @@ sections:
           url: /CommandantForeword/
         - title: Programmes
           description: ""
-          url: ""
+          url: /SignatureProgrammes/
         - title: NPCC Events
           description: ""
           url: /privacy/
@@ -29,7 +29,3 @@ sections:
         contributes towards making Singapore the safest place in the world!
       url: /faq/
 ---
-
-
-
-
