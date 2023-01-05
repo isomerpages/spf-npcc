@@ -29,3 +29,19 @@ The 1st Class Drill badge may be awarded to a cadet who is already the holder of
 <ol>b) Able to organise and conduct a muster parade at unit level.</ol>
 
 ![](/images/1st-Class-Dril-01.jpg)
+
+### Enrichment Courses and Campcraft
+
+<b><u>Enrichment Courses</b></u>
+
+As a cadet, you will have the opportunity to go through courses like First Aid, Swimming, Life-saving & Kayaking for personal development in your respective units.
+
+<b><u>Campcraft</b></u>
+
+Cadets will also have the opportunity to learn different campcraft skills.
+
+![](/images/campcraft.jpg)
+
+![](/images/Screenshot_20230105_112247_Samsung%20Internet.jpg)
+
+You will get a chance to learn the above skills and , in the process, build resilience in yourself and teamwork among your teammates.
