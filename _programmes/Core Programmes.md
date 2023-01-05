@@ -54,3 +54,6 @@ The Road Safety Course is conducted online for Secondary One Cadets as part of t
 * Crime Prevention Tips for Road Safety.
 
 Interested Units may also have their Secondary Two Cadets participate in the Road Safety Marshalling duty.
+
+#### **SGSecure & Homefront Security**
+
