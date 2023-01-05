@@ -24,7 +24,6 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: National Police Cadet Corps
       description: Join us and be part of a youth organisation which actively
         contributes towards making Singapore the safest place in the world!
       url: /faq/
