@@ -2,6 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Courses for Teachers & Volunteers.md
       - Signature Programmes.md
       - Core Programmes.md
+      - Courses for Teachers & Volunteers.md
