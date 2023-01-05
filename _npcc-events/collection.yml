@@ -1,4 +1,5 @@
 collections:
   npcc-events:
     output: true
-    order: []
+    order:
+      - NPCC Annual Parade.md
