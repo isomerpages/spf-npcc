@@ -22,7 +22,7 @@ sections:
           url: /NPCCAnnualParade/
         - title: Route of Advancement
           description: ""
-          url: ""
+          url: Cadets
   - infobar:
       description: Join us and be part of a youth organisation which actively
         contributes towards making Singapore the safest place in the world!
