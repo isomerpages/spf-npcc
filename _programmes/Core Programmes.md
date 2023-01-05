@@ -32,11 +32,11 @@ The 1st Class Drill badge may be awarded to a cadet who is already the holder of
 
 ### Enrichment Courses and Campcraft
 
-<b><u>Enrichment Courses</b></u>
+<u>**Enrichment Courses**</u>
 
 As a cadet, you will have the opportunity to go through courses like First Aid, Swimming, Life-saving & Kayaking for personal development in your respective units.
 
-<b><u>Campcraft</b></u>
+<u>**Campcraft**</u>
 
 Cadets will also have the opportunity to learn different campcraft skills.
 
@@ -90,4 +90,3 @@ Cadets will have the opportunity to take part in the following Community Outreac
 The objectives of the programmes are to educate cadets to understand that:
 * To be socially conscious is to take ownership of educating the community of safety and security, as well as to assist in enforcing those values and beliefs through actions; and
 * Taking ownership in improving the safety and security of the community is an important part of being socially conscious - serving the common good.
-
