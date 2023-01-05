@@ -19,7 +19,7 @@ sections:
           url: /SignatureProgrammes/
         - title: NPCC Events
           description: ""
-          url: /privacy/
+          url: /NPCCAnnualParade/
         - title: Route of Advancement
           description: ""
           url: ""
