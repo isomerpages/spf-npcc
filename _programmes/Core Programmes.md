@@ -32,11 +32,11 @@ The 1st Class Drill badge may be awarded to a cadet who is already the holder of
 
 ### Enrichment Courses and Campcraft
 
-<u> **Enrichment Courses** </u>
+<u>Enrichment Courses</u>
 
 As a cadet, you will have the opportunity to go through courses like First Aid, Swimming, Life-saving & Kayaking for personal development in your respective units.
 
-<u> **Campcraft** </u>
+<u>Campcraft</u>
 
 Cadets will also have the opportunity to learn different campcraft skills.
 
