@@ -46,7 +46,7 @@ Cadets will also have the opportunity to learn different campcraft skills.
 
 You will get a chance to learn the above skills and , in the process, build resilience in yourself and teamwork among your teammates.
 
-#### **Road Safety**
+### **Road Safety**
 
 The Road Safety Course is conducted online for Secondary One Cadets as part of the requirement to attain proficiency badges under the SPF-NPCC Badge category. The purpose of the course is to better understand the basics of road safety, such as:
 * Traffic Signs and Signals;
@@ -55,7 +55,7 @@ The Road Safety Course is conducted online for Secondary One Cadets as part of t
 
 Interested Units may also have their Secondary Two Cadets participate in the Road Safety Marshalling duty.
 
-#### **SGSecure & Homefront Security**
+### **SGSecure & Homefront Security**
 
         
 The SGSecure Course is conducted by our SPF SGSecure Facilitators from the Training Command for Secondary One Cadets. With the current COVID-19 pandemic, the SGSecure Course is currently conducted online.
@@ -73,7 +73,7 @@ The course aims to equip cadets with the relevant knowledge as follows:
 
 The Homefront Security badge is awarded to a Secondary Three cadet who has completed the Homefront Security Course and passed a written test at the end of the course.
 
-#### **Visit to Police Establishments**
+### **Visit to Police Establishments**
 
 Want to check out the difference between the past and present Singapore Police Force and how a Neighbourhood Police Centre operates? Cadets will have the opportunity to experience the following during their journey with NPCC:
 * Police Heritage Centre
@@ -81,7 +81,7 @@ Want to check out the difference between the past and present Singapore Police F
 * Home Team Gallery
 * Police Coast Guard
 
-#### **Community Outreach**
+### **Community Outreach**
 
 Cadets will have the opportunity to take part in the following Community Outreach Programmes organised by the schools:
 * Community Safety and Security Programme (CSSP) for Secondary Two Cadets; and
