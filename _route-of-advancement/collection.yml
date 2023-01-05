@@ -2,7 +2,7 @@ collections:
   route-of-advancement:
     output: true
     order:
-      - Teacher Officers.md
       - Cadets.md
       - Cadet Inspectors.md
       - Honorary Officers.md
+      - Teacher Officers.md
