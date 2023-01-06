@@ -101,9 +101,9 @@ The CSSP and PYA Badges are awarded to cadets who have successfully completed th
 
 Under the Total Defence Programme for Uniformed Groups by NEXUS, cadets will participate in and lead Total Defence-related activities within their units, schools, and/or communities using the lesson packages designed by NEXUS. Cadets will gain a deeper appreciation of Total Defence, put Total Defence into action, and be advocates for Total Defence as they earn the Bronze, Silver and Gold Badges. After going through the Total Defence curriculum and engaging activities like “Guardians of the City”, a Total Defence strategy card game, cadets will have a deeper understanding of the changing nature of threats and challenges which Singapore face today.
 
-![](/images/Total-Defence-01.jpg)
+![](/images/NPCC%20Images/Core%20Programmes%20-%20Total%20Defence%2001-low%20res.png)
 
-![](/images/Total-Defence-02.jpg)
+![](/images/NPCC%20Images/Core%20Programmes%20-%20Total%20Defence%2002-low%20res.png)
 
 ### Civil Defence
 
