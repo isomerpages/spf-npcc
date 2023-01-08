@@ -14,6 +14,6 @@ This award testifies to their learning, right attitude as well as stellar aptitu
 
 And each year, the SPF-NPCC Badge Presentation Ceremony is held to recognize the awardees of this pinnacle badge.
 
-![](/images/spf-img1.png)
+![](/images/NPCC%20Images/SPF-NPCC%20Badge%20Award%20Presentation%20Ceremony%2001.jpg)
 
-![](/images/spf-img2.png)
+![](/images/NPCC%20Images/SPF-NPCC%20Badge%20Award%20Presentation%20Ceremony%2002.jpg)
