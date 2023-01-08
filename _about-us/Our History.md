@@ -4,7 +4,7 @@ permalink: /OurHistory/
 description: ""
 ---
 ### History of NPCC
-![](/images/NPCC%20Images/History%20page.jpg)
+![](/images/history-1.jpg)
 
 ![](/images/NPCC%20Images/history%20page%20(2).jpg)
 
