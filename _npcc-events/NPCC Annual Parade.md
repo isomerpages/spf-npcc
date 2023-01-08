@@ -12,32 +12,32 @@ NPAP 2021 is a unique one as we held our inaugural fully virtual parade to celeb
 
 While NPAP has always been held physically at the Home Team Academy, it was not possible from 2020 to 2022 due to the COVID-19 situation. This made NPAP 2021 and 2022 unique as we celebrate with virtual parades live streamed via NPCC social media platforms and via Zoom Webinar, respectively.
 
-![](/images/event1.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2001-lowres.png)
 
-![](/images/event2.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2002-lowres.png)
 
-![](/images/event3.png)
+![](/images/NPCC%20Images/RO%20Recording%201.jpeg)
 
-![](/images/event4.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2004-lowres.png)
 
-![](/images/event5.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2005-lowres.png)
 
-![](/images/event6.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2006-lowres.png)
 
-![](/images/event7.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2007-lowres.png)
 
-![](/images/event8.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2008-lowres.png)
 
-![](/images/event9.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2009-lowres.png)
 
-![](/images/event10.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2010-lowres.png)
 
-![](/images/event11.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2011-lowres.png)
 
-![](/images/event12.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2012-lowres.png)
 
-![](/images/event13.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2013-lowres.png)
 
-![](/images/event14.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2014-lowres.png)
 
-![](/images/event15.png)
+![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2015-lowres.png)
