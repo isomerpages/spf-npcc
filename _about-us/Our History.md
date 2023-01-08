@@ -4,9 +4,9 @@ permalink: /OurHistory/
 description: ""
 ---
 ### History of NPCC
-![](/images/history-1.jpg)
+![](/images/NPCC%20Images/History%20page.jpg)
 
-![](/images/history-2.jpg)
+![](/images/NPCC%20Images/history%20page%20(2).jpg)
 
 ***<u>1959 - 1969 A Unified Image</u>***
         
