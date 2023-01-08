@@ -24,6 +24,6 @@ And the community;
 We will always preserve the peace
 And uphold the law.
 
-![](/images/value-img1.png)
+![](/images/NPCC%20Images/Pledge%20Photo.jpg)
 
-![](/images/value-img2.png)
+![](/images/NPCC%20Images/Pledge%202nd%20%20Photo.jpg)
