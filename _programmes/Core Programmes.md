@@ -8,9 +8,9 @@ description: ""
 
 The 3rd Class Drill badge may be awarded to a cadet of any level who is smart in turn-out and bearing and who has passed the basic commands test conducted twice a year at unit level.
 
-![](/images/3rd-Class-Drill-01.jpg)
+![](/images/NPCC%20Images/3rd%20Class%20Drill%2001.jpg)
 
-![](/images/3rd-Class-Drill-02.jpg)
+![](/images/NPCC%20Images/3rd%20Class%20Drill%2002.jpg)
 
 #### **2nd Class Drill**
 
@@ -18,9 +18,9 @@ The 2nd Class Drill badge may be awarded to a cadet who is already the holder of
 <ol>a) Have the knowledge of the advance static & marching commands.</ol>
 <ol>b) Able to take a squad and execute the basic rifle drills.</ol>
 
-![](/images/2nd-Class-Drill-01.jpg)
+![](/images/NPCC%20Images/2nd%20Class%20Drill%2001.jpg)
 
-![](/images/2nd-Class-Drill-02.jpg)
+![](/images/NPCC%20Images/2nd%20Class%20Drill%2002.jpg)
 
 #### **1st Class Drill**
 
@@ -28,7 +28,7 @@ The 1st Class Drill badge may be awarded to a cadet who is already the holder of
 <ol>a) Have the knowledge of the advance rifle drills.</ol>
 <ol>b) Able to organise and conduct a muster parade at unit level.</ol>
 
-![](/images/1st-Class-Dril-01.jpg)
+![](/images/NPCC%20Images/1st%20Class%20Drill%2001.jpg)
 
 ### Enrichment Courses and Campcraft
 
@@ -91,9 +91,9 @@ The objectives of the programmes are to educate cadets to understand that:
 * To be socially conscious is to take ownership of educating the community of safety and security, as well as to assist in enforcing those values and beliefs through actions; and
 * Taking ownership in improving the safety and security of the community is an important part of being socially conscious - serving the common good.
 
-![](/images/Community-Outreach-01.jpg)
+![](/images/NPCC%20Images/Community%20Outreach%2001.jpg)
 
-![](/images/Community-Outreach-02.jpg)
+![](/images/NPCC%20Images/Community%20Outreach%2002.jpg)
 
 The CSSP and PYA Badges are awarded to cadets who have successfully completed the Community Outreach Programmes.
 
@@ -146,9 +146,9 @@ Some topics that would be covered are:
 * Measuring distance on the nautical chart;
 * Understanding the Maritime Buoyage System.
 
-![](/images/Basic-Coastal-Navigation-01.jpg)
+![](/images/NPCC%20Images/Basic%20Coastal%20Navigation%2001.jpg)
 
-![](/images/Basic-Coastal-Navigation-02.jpg)
+![](/images/NPCC%20Images/Basic%20Coastal%20Navigation%2002.jpg)
 
 **Basic Seamanship**
 
@@ -190,7 +190,7 @@ Cadets should be able to demonstrate the ability to:
 * board a liferaft;
 * rescue a survivor with a lifebuoy.
 
-![](/images/Sea-Survival-Training.jpg)
+![](/images/NPCC%20Images/IMG20210408082336.jpg)
 
 ### Navigation Sortie
 
@@ -205,4 +205,4 @@ At the end of the sortie, cadets would have the knowledge to be able to:
 * understand the procedures in different kinds of emergencies;
 * understand the International Buoyage System.
 
-![](/images/Navigation-Sortie.jpg)
+![](/images/NPCC%20Images/20190718_114035.jpg)
