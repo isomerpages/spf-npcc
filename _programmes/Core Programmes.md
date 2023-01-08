@@ -190,7 +190,7 @@ Cadets should be able to demonstrate the ability to:
 * board a liferaft;
 * rescue a survivor with a lifebuoy.
 
-![](/images/NPCC%20Images/IMG20210408082336.jpg)
+![](/images/Sea-Survival-Training.jpg)
 
 ### Navigation Sortie
 
