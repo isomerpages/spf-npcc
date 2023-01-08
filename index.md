@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: National Police Cadet Corps
-      background: /images/cadet-corps.jpg
+      background: /images/NPCC Images/1 main page (1).jpg
       url: /contact-us/
       key_highlights:
         - title: Know About NPCC
