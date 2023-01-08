@@ -11,9 +11,9 @@ Upon acquiring the basic knowledge of unarmed tactics, trainers will demonstrate
 
 The four-hour course equips the cadets with the basic knowledge of self-defense and rules of engagement which they could use to defend themselves when faced with adversity.
 
-![](/images/Unarmed-Tactics-01_lowres-1.jpg)
+![](/images/NPCC%20Images/Unarmed%20Tactics%2001_lowres.jpg)
 
-![](/images/Unarmed-Tactics-02_lowres-1.jpg)
+![](/images/NPCC%20Images/Unarmed%20Tactics%2002_lowres.jpg)
 
 ### Crime Scene Investigation
 Crime Scene Investigation (CSI) is a form of forensic science which supports investigation, leading the authorities or the police to the facts behind an incident or a crime scene. This course is conducted for Sec 1 and 2 cadets where they will have the opportunity to learn how to solve a crime via the following lessons:
@@ -30,7 +30,7 @@ Crime Scene Investigation (CSI) is a form of forensic science which supports inv
         
 The Enhanced CSI is for the Sec 3 cadets where they will have an interactive hands-on experience by going through a series of crime scenes set up in mock-up HDB flats and the Virtual Reality (VR) On-Scene Investigation in Home Team Academy (HTA). This will allow them to have hands-on experience and apply the crime scene management skills which they have learnt.
 
-![](/images/VR-in-Training-Village.jpg)
+![](/images/NPCC%20Images/VR%20in%20Training%20Village.jpg)
 <center> VR in Training Village</center>
 
 ![](/images/CSI-in-Unit.jpg)
@@ -41,15 +41,17 @@ The Enhanced CSI is for the Sec 3 cadets where they will have an interactive han
         
 NPCC HQ trains interested Sec 2 cadets and all Sec 3 cadets in the safe handling (Dry Practice) of the 0.22 Smith and Wesson revolver before allowing them to experience the live shoot in the Home Team Academy (HTA) range. Dry Practice sessions will introduce the cadets to the actual revolver in the form of both theory and practical lessons. Cadets will learn the marksmanship principles, safe handling of the revolver and immediate action drills to prepare them for the live shoot. The scores they obtained in Sec 3 during the live shoot will determine if they will receive the Marksmanship badge.
 
-![](/images/Figure-2-target-with-points.jpg)
+![](/images/NPCC%20Images/Figure%202%20target%20with%20points.png)
 <center>Figure 2 target with points</center>
 
-![](/images/Marksmanship-Badge.jpg)
+![](/images/NPCC%20Images/Marksmanship%20Badge.jpg)
 <center>Marksmanship Badge</center>
 
 #### **Revolver 0.38 Live Shoot for TOs, HOs and CIs**
       
 Besides the cadets, the TOs, HOs and CIs are also trained in the safe handling of the 0.38 Taurus revolver before the live shoot in the Home Team Academy (HTA) range.
+
+![](/images/NPCC%20Images/National%20Rifle%20Association%20(NRA)%20Target.png)
 
 ![](/images/home-team-academy01.jpg)
 
@@ -84,12 +86,12 @@ The objectives for the OEVs are as follows:
 
 Visit to the Royal Brunei Police Force (Polis Diraja Brunei \[PDB\]) and Royal Brunei Police Cadet Corps (Pasukan Kadet Police Diraja Brunei \[PKP\]).
 
-![](/images/polis-diraja-brunei.jpg)
+![](/images/NPCC%20Images/Brunei%20Visit%2002.png)
 
-![](/images/pasukan-kadet-police-diraja-brunei.jpg)
+![](/images/NPCC%20Images/Brunei%20Visit%2003.png)
         
 Visit to the Hong Kong Police Force (香港警務處 xiāng gǎng jǐng wù chù \[HKPF\]) and Hong Kong Junior Police Call (少年警訊 shào nián jǐng xùn \[JPC\]).
 
-![](/images/hong-kong-police-force.jpg)
+![](/images/NPCC%20Images/Hong%20Kong%20Visit%2001.png)
 
-![](/images/hong-kong-junior-police.jpg)
+![](/images/NPCC%20Images/Hong%20Kong%20Visit%2002.png)
