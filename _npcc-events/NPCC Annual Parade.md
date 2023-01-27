@@ -41,5 +41,3 @@ While NPAP has always been held physically at the Home Team Academy, it was not 
 ![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2014-lowres.png)
 
 ![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2015-lowres.png)
-
-<img src="event1.png" width="400" height="600">
