@@ -12,10 +12,6 @@ NPAP 2021 is a unique one as we held our inaugural fully virtual parade to celeb
 
 While NPAP has always been held physically at the Home Team Academy, it was not possible from 2020 to 2022 due to the COVID-19 situation. This made NPAP 2021 and 2022 unique as we celebrate with virtual parades live streamed via NPCC social media platforms and via Zoom Webinar, respectively.
 
-![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2001-lowres.png)
-
-![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2002-lowres.png)
-
 ![](/images/NPCC%20Images/RO%20Recording%201.jpeg)
 
 ![](/images/NPCC%20Images/Events%20-%20NPCC%20Annual%20Parade%2004-lowres.png)
