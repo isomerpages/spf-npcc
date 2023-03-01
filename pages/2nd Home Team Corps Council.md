@@ -3,7 +3,7 @@ title: 2nd Home Team Corps Council
 permalink: /HTCCouncil/
 description: ""
 ---
-### 2nd Home Team Corps Council
+### 3rd Home Team Corps Council
 
 
 | S/N | Name | Appointment |
@@ -23,4 +23,3 @@ description: ""
 | 13     | Grace Chua     | Member<br>Principal<br>Pasir Ris Secondary School     |
 | 14     | Goh Soon Hoe     | Member<br>Principal<br>Kranji Secondary School     |
 | 15     | Vincent Toh     | Member<br>Principal<br>Evergreen Secondary School     |
-
