@@ -17,9 +17,9 @@ description: ""
 | 7     | COL Wesley Lim Chern Choong     | Director<br>Volunteer and Community Partnership Department<br>Singapore Civil Defence Force     |
 | 8     | Mr Kenneth Lee Tee Chong     | Director, Character & Citizenship Education Branch<br>Student Development Curriculum Division 1<br>Ministry of Education     |
 | 9     | Mr Simon Gan Kok Soon     | Deputy Director<br>Uniformed Groups Unit<br>Ministry of Education     |
-| 10     | Susan Wu     | Member<br>Cluster Superintendent North 7<br>Ministry of Education     |
-| 11     | Anba Saroja     | Member<br>Principal<br>Whitley Secondary School     |
-| 12     | Doris Ho     | Member<br>Principal<br>Fajar Secondary School     |
-| 13     | Grace Chua     | Member<br>Principal<br>Pasir Ris Secondary School     |
-| 14     | Goh Soon Hoe     | Member<br>Principal<br>Kranji Secondary School     |
-| 15     | Vincent Toh     | Member<br>Principal<br>Evergreen Secondary School     |
+| 10     | Mdm Susan Wu     | Cluster Superintendent North 7<br>Ministry of Education     |
+| 11     | Mrs Anba Saroja     | Principal<br>Whitley Secondary School     |
+| 12     | Mr Chua Chor Huat     | Principal<br>Woodgrove Secondary School     |
+| 13     | Mr Teo Kok Hong     | Principal<br>Ngee Ann Secondary School     |
+| 14     | Ms Ng Sook Kit     | Principal<br>Yuan Ching Secondary School     |
+| 15     | Mr Ng Hock Soon     | Principal<br>Zhenghua Secondary School     |
