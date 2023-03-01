@@ -9,7 +9,7 @@ description: ""
 | S/N | Name | Appointment |
 | -------- | -------- | -------- |
 | 1     | A/P Stephen Phua Lye Huat     | Chairman, 2nd HTC Council<br>Associate Professor<br>Faculty of Law<br>National University of Singapore     |
-| 2     | SAC David Scott Arul     | Deputy Chairman<br>Commander TRACOM<br>Singapore Police Force     |
+| 2     | SAC David Scott Arul     | Deputy Chairman, 2nd HTC Council<br>Commander TRACOM<br>Singapore Police Force     |
 | 3     | AC Alan Chow     | Deputy Chairman<br>Director, Civil Defence Academy<br>Singapore, Civil Defence Force     |
 | 4     | AC Shng Yunn Chinn     | Member<br>Director, Community Partnership Department<br>Singapore Police Force     |
 | 5     | COL Lim Han Chee     | Member<br>Commander, 3rd SCDF Division<br>Singapore Civil Defence Force     |
