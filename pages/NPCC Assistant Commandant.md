@@ -25,3 +25,14 @@ description: ""
 | 14     | H/DSP (NPCC) Song Chee Kian     | 14     |
 | 15     | DSP (NPCC) Abdul Wahab Bin Abdul Rahman     | 15     |
 | 16     | DSP (NPCC) Lam Seng Tat     | 16     |
+| 17     | H/DSP (NPCC) Sim Ghee Thiam Jeffrey     | 17     |
+| 18     | A/DSP (NPCC) Ang Chin Chuan     | 18     |
+| 19     | A/DSP (NPCC) Shamsul Bin Idris     | 19     |
+| 20     | DSP (NPCC) Tan Chiew Ming Vivien     | 20     |
+| 21     | H/DSP (NPCC) Loy Wei Kiin     | HQ     |
+| 22     | H/ASP (NPCC) Ang Wei Loon Joseph     | HQ     |
+| 23     | H/DSP (NPCC) Liew Sing For     | HQ     |
+| 24     | DSP (NPCC) Tan Thiam Meng     | HQ     |
+| 25     | A/DSP (NPCC) Tan Huang Nam     | HQ     |
+| 26     | DSP (NPCC) Vincent Loh     | HQ     |
+| 27     | A/DSP (NPCC) Andrew Lee     | HQ     |
