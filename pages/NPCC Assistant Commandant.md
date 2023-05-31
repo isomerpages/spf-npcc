@@ -21,7 +21,7 @@ description: ""
 | 10     | H/DSP (NPCC) Quek Meng Kiang     | 10     |
 | 11     | DSP (NPCC) Mohamed Imran Bin Mohamed     | 11     |
 | 12     | H/DSP (NPCC) Chua Kok Boon Desmond     | 12     |
-| 13     | DSP (NPCC) Yeo Peck Hong     | 13     |
+| 13     | A/DSP (NPCC) Yeo Peck Hong     | 13     |
 | 14     | H/DSP (NPCC) Song Chee Kian     | 14     |
 | 15     | DSP (NPCC) Abdul Wahab Bin Abdul Rahman     | 15     |
 | 16     | DSP (NPCC) Lam Seng Tat     | 16     |
