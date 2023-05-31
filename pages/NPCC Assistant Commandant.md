@@ -34,5 +34,5 @@ description: ""
 | 23     | H/DSP (NPCC) Liew Sing For     | HQ     |
 | 24     | DSP (NPCC) Tan Thiam Meng     | HQ     |
 | 25     | A/DSP (NPCC) Tan Huang Nam     | HQ     |
-| 26     | DSP (NPCC) Vincent Loh     | HQ     |
+| 26     | DSP (NPCC) Loh Guan Wee Vincent     | HQ     |
 | 27     | A/DSP (NPCC) Andrew Lee     | HQ     |
