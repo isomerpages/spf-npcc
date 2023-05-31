@@ -14,9 +14,9 @@ description: ""
 | 3     | A/DSP (NPCC) Ng Sio Hoon     | Head Training (Field)     |
 | 4     | Ms Loy Choi Khuan     | Head Admin & Finance     |
 | 5     | A/ASP (NPCC) Viktor Soe     | Head Operations     |
-| 6     | A/ASP (NPCC) Kelvin Poh     | Head Training (Development)     |
+| 6     | DSP (NPCC) Goh Hock Meng     | Head Training (Development)     |
 | 7     | DSP (NPCC) Rajeswari D/O Sinkaram     | Head Leadership & Community Services     |
-| 8     | SI Muhamad Faizal Bin Ahmad     | Camp Warden     |
+| 8     | SI Lum Chee Hoh     | Camp Warden     |
 | 9     | Mr Mohammad Shahril Bin Bakar     | Sea Liaison Officer     |
 | 10     | SSS Mohamed Noor Bin Haji Hassan     | Campsite Field Instructor     |
 | 11     | Mr Chng Yeow Hooi     | Supervisor General Office     |
