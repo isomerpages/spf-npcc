@@ -12,7 +12,7 @@ description: ""
 | 1     | H/DSP (NPCC) Lim Teck Liang     | 1     |
 | 2     | DSP (NPCC) Lee Mun Sum Jane     | 2     |
 | 3     | A/DSP (NPCC) Peh Chin Keong     | 3     |
-| 4     | DSP (NPCC) Ainul Hani Bte Indra Faisal     | 4     |
+| 4     | A/DSP (NPCC) Ainul Hani Bte Indra Faisal     | 4     |
 | 5     | DSP (NPCC) Lim Kok Sein     | 5     |
 | 6     | DSP (NPCC) Ong Chih Faah     | 6     |
 | 7     | DSP (NPCC) Mohd Azman B Mohd Selamat     | 7     |
