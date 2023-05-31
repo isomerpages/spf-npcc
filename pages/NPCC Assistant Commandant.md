@@ -28,7 +28,7 @@ description: ""
 | 17     | H/DSP (NPCC) Sim Ghee Thiam Jeffrey     | 17     |
 | 18     | A/DSP (NPCC) Ang Chin Chuan     | 18     |
 | 19     | A/DSP (NPCC) Shamsul Bin Idris     | 19     |
-| 20     | DSP (NPCC) Tan Chiew Ming Vivien     | 20     |
+| 20     | A/DSP (NPCC) Tan Chiew Ming Vivien     | 20     |
 | 21     | H/DSP (NPCC) Loy Wei Kiin     | HQ     |
 | 22     | H/ASP (NPCC) Ang Wei Loon Joseph     | HQ     |
 | 23     | H/DSP (NPCC) Liew Sing For     | HQ     |
