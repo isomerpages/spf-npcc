@@ -1,0 +1,7 @@
+collections:
+  npcc-events:
+    output: true
+    order:
+      - NPCC Annual Parade.md
+      - SPF NPCC Badge Presentation Ceremony.md
+      - Home Team Corps Promotion & Awards Ceremony.md

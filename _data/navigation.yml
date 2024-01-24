@@ -1,0 +1,10 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: NPCC Events
+    collection: npcc-events
+  - title: Route of Advancement
+    collection: route-of-advancement
