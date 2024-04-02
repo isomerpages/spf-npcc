@@ -12,7 +12,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 1     | SUPT Polly Ting     | Commandant NPCC     |
 | 2     | DSP Lee Chee Shan     | Head Corporate Services     |
-| 3     | A/DSP (NPCC) Ng Sio Hoon     | Head Training (Field)     |
+| 3     | A/DSP (NPCC) Soh Wan Ting     | Head Training (Field)     |
 | 4     | Ms Loy Choi Khuan     | Head Admin & Finance     |
 | 5     | A/ASP (NPCC) Viktor Soe     | Head Operations     |
 | 6     | DSP (NPCC) Goh Hock Meng     | Head Training (Development)     |
