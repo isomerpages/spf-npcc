@@ -2,6 +2,7 @@
 title: Commandant's Foreword
 permalink: /CommandantForeword/
 description: ""
+variant: markdown
 ---
 ### Commandant's Foreword
 
@@ -13,6 +14,6 @@ Through a variety of activities, the values of resilience, integrity, service, a
 
 NPCC is a fulfilling and enriching co-curricular activity which allows cadets to learn and grow significantly in personal competencies and leadership. The Corps also continually seeks to improve and craft rich and meaningful learning experiences to equip our cadets with the necessary skill sets to navigate the world of the 21st century.
 
-**Supt Tan Shing Shin**<br>
+**Supt Polly Ting**<br>
 **Commandant**<br>
 **National Police Cadet Corps**
