@@ -2,6 +2,7 @@
 title: NPCC HQ Team
 permalink: /NPCCHQTeam/
 description: ""
+variant: markdown
 ---
 ### NPCC HQ Team
 
@@ -9,7 +10,7 @@ description: ""
 
 | S/N | Name | Title |
 | -------- | -------- | -------- |
-| 1     | SUPT Tan Shing Shin     | Commandant NPCC     |
+| 1     | SUPT Polly Ting     | Commandant NPCC     |
 | 2     | DSP Lee Chee Shan     | Head Corporate Services     |
 | 3     | A/DSP (NPCC) Ng Sio Hoon     | Head Training (Field)     |
 | 4     | Ms Loy Choi Khuan     | Head Admin & Finance     |
