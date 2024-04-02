@@ -12,10 +12,11 @@ variant: markdown
 | -------- | -------- | -------- |
 | 1     | SUPT Polly Ting     | Commandant NPCC     |
 | 2     | DSP Lee Chee Shan     | Head Corporate Services     |
-| 3     | A/DSP (NPCC) Soh Wan Ting     | Head Training (Field)     |
-| 4     | Mr Flavian Lim     | Head Admin & Finance     |
+| 3     | A/DSP (NPCC) Muhammad Nazirul Mubin Yusoff     | Head Human Resource     |
+| 3     | A/DSP (NPCC) Soh Wan Ting     | Head Training Field     |
+| 4     | Mr Flavian Lim     | Head Administration & Finance     |
 | 5     | A/ASP (NPCC) Viktor Soe     | Head Operations     |
-| 6     | DSP (NPCC) Goh Hock Meng     | Head Training (Development)     |
+| 6     | DSP (NPCC) Goh Hock Meng     | Head Training Development     |
 | 7     | DSP (NPCC) Rajeswari D/O Sinkaram     | Head Leadership & Community Services     |
 | 8     | SSS Sharizal Bin Shaik Dawood     | Field Instructor     |
 | 9     | SI Lum Chee Hoh     | Camp Warden     |
