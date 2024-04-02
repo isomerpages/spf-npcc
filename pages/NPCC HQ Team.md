@@ -17,13 +17,13 @@ variant: markdown
 | 5     | A/ASP (NPCC) Viktor Soe     | Head Operations     |
 | 6     | DSP (NPCC) Goh Hock Meng     | Head Training (Development)     |
 | 7     | DSP (NPCC) Rajeswari D/O Sinkaram     | Head Leadership & Community Services     |
-| 8     | SI Muhammad Faizal Bin Ahmad     | Supervisor Field Instructor     |
+| 8     | SSS Sharizal Bin Shaik Dawood     | Field Instructor     |
 | 9     | SI Lum Chee Hoh     | Camp Warden     |
 | 10     | Mr Mohammad Shahril Bin Bakar     | Sea Liaison Officer     |
-| 11     | SSS Mohamed Noor Bin Haji Hassan     | Campsite Field Instructor     |
+| 11     | SSS Mohd Nur Arif     | Field Instructor     |
 | 12     | Mr Chng Yeow Hooi     | Supervisor General Office     |
 | 13     | Mr Zulhilmi Bin Ismail     | Admin & Store Officer     |
-| 14     | Ms Koh Yu Ling     | Administrative Officer     |
+| 14     | Ms Nurfarina Ramli     | Administrative Officer     |
 | 15     | Ms Tuty Tiwahidah Bte Ab Hamed     | Administrative Officer     |
 | 16     | Mr Zulkiflee Bin Haji Elias     | Administrative Officer     |
 | 17     | Mr Azhar Bin Suboh     | Campsite Store Officer     |
