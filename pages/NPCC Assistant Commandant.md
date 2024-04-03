@@ -2,6 +2,7 @@
 title: NPCC Assistant Commandant
 permalink: /NPCCAC/
 description: ""
+variant: markdown
 ---
 ### NPCC Assistant Commandant
 
@@ -13,7 +14,7 @@ description: ""
 | 2     | DSP (NPCC) Lee Mun Sum Jane     | 2     |
 | 3     | A/DSP (NPCC) Peh Chin Keong     | 3     |
 | 4     | A/DSP (NPCC) Ainul Hani Bte Indra Faisal     | 4     |
-| 5     | DSP (NPCC) Lim Kok Sein     | 5     |
+| 5     | DSP (NPCC) Loh Guan Wee Vincent     | 5     |
 | 6     | DSP (NPCC) Ong Chih Faah     | 6     |
 | 7     | DSP (NPCC) Mohd Azman B Mohd Selamat     | 7     |
 | 8     | DSP (NPCC) Choo Yong Guan     | 8     |
@@ -34,5 +35,4 @@ description: ""
 | 23     | H/DSP (NPCC) Liew Sing For     | HQ     |
 | 24     | DSP (NPCC) Tan Thiam Meng     | HQ     |
 | 25     | A/DSP (NPCC) Tan Huang Nam     | HQ     |
-| 26     | DSP (NPCC) Loh Guan Wee Vincent     | HQ     |
-| 27     | A/DSP (NPCC) Lee XinZhan Andrew     | HQ     |
+| 26     | A/DSP (NPCC) Lee XinZhan Andrew     | HQ     |
