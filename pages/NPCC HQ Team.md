@@ -39,7 +39,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUPT Lee Chee Shan</p>
+<p>DSP(2) Rabaah Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Corporate Services</p>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DSP (NPCC) Goh Hock Meng</p>
+<p>Mr John Lim Chien Chee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Training (Development)</p>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vacant</p>
+<p>A/DSP (NPCC) Muhammad Nazirul Mubin Bin Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Leadership &amp; Community Services</p>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A/DSP (NPCC) Maung Soe Nyunt Zaw</p>
+<p>Vacant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Operations</p>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A/DSP (NPCC) Muhammad Nazirul Mubin Bin Yusoff</p>
+<p>A/DSP (NPCC) Soh Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Human Resource</p>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A/DSP (NPCC) Soh Wan Ting</p>
+<p>Mr Marcus Law</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Training (Field)</p>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Tien Leng Flavian</p>
+<p>Mr Jeffrey Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Administration &amp; Finance</p>
@@ -149,7 +149,7 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurfarina Binte Ramli</p>
+<p>Mr Lee Yoon Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Officer</p>
@@ -160,7 +160,7 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tuty Tiwahidah Bte Ab Hamed</p>
+<p>Ms Chem Yu Qiu, Rae</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Officer</p>
@@ -171,7 +171,7 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zulhilmi Bin Ismail</p>
+<p>Mr Mohamad Kamal Bin Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative &amp; Store Officer</p>
@@ -182,7 +182,7 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC Mohammad Faris Bin Mazwan</p>
+<p>SC2 Mazlatif Sufilah Bin Mazelan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff Assistant to Commandant NPCC</p>
@@ -193,7 +193,7 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC Ashley Kit Zoon Ler</p>
+<p>SC/CPL Ashley Kit Zoon Ler</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff Assistant to Commandant NPCC</p>
@@ -232,7 +232,7 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC/SGT(1) Shahab Shafiq Loo</p>
+<p>SC/CPL Loh Wei Choong, Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field Instructor</p>
@@ -243,7 +243,18 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC/CPL Muthukumaran Mridul Harish</p>
+<p>SC/CPL Loganathan Sushanth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Field Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SC/CPL A S M Rafidul Islam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field Instructor</p>
@@ -257,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SI Lum Chee Hoh</p>
@@ -268,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azhar Bin Suboh</p>
@@ -279,21 +290,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Kamal Bin Abdul Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Campsite Store Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC/SGT(2) Mohamaad Afiq Bin Abdullah</p>
+<p>SC/CPL Alphonsus Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field Instructor</p>
@@ -304,7 +304,7 @@ variant: tiptap
 <p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC/SGT(2) Muhammad Hafiz Bin Roslan</p>
+<p>SC/SGT(1) Rai Qaiser Sze Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field Instructor</p>
@@ -315,7 +315,7 @@ variant: tiptap
 <p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC/CPL Indra Bin Abdul Malek</p>
+<p>SC/CPL Syed Mohd Firdaus Syed Abdullah Al-Habshi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field Instructor</p>
@@ -326,7 +326,7 @@ variant: tiptap
 <p>27</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC Asraf Ali Razik Jabbar</p>
+<p>SC2 Asraf Ali Razik Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field Instructor</p>
