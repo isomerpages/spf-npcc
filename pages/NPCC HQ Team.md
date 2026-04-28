@@ -200,6 +200,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SC Travis Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff Assistant to Commandant NPCC</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>NPCC Field Instructors</strong>
 </p>
@@ -207,7 +218,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SSS Mohammad Nur Arif Bin Udin</p>
@@ -218,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SSS Sharizal Bin Shaik Dawood</p>
@@ -229,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC/CPL Loh Wei Choong, Jonathan</p>
@@ -240,7 +251,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC/CPL Loganathan Sushanth</p>
@@ -251,7 +262,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC/CPL A S M Rafidul Islam</p>
@@ -268,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SI Lum Chee Hoh</p>
@@ -279,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azhar Bin Suboh</p>
@@ -290,7 +301,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC/CPL Alphonsus Lim</p>
@@ -301,7 +312,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC/SGT(1) Rai Qaiser Sze Toh</p>
@@ -312,7 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC/CPL Syed Mohd Firdaus Syed Abdullah Al-Habshi</p>
@@ -323,7 +334,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC2 Asraf Ali Razik Jabbar</p>
@@ -334,7 +345,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28</p>
+<p>29</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SC2 Long Junze</p>
