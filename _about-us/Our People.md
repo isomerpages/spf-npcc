@@ -2,10 +2,11 @@
 title: Our People
 permalink: /OurPeople/
 description: ""
+variant: markdown
 ---
-<a href="/HTCCouncil/">![](/images/people-red.png)
+<a href="/htccouncil/">![](/images/people-red.png)
 ### <center> Home Team Corps Council</center>
-<a href="/NPCCHQTeam/">![](/images/people-blue.png)
+</a><a href="/NPCCHQTeam/">![](/images/people-blue.png)
 ### <center>NPCC HQ Team</center>
-<a href="/NPCCAC/">![](/images/people-blue.png)
-### <center>NPCC ACs</center>
+</a><a href="/NPCCAC/">![](/images/people-blue.png)
+### <center>NPCC ACs</center></a>
