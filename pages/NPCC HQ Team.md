@@ -28,7 +28,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUPT Ting Tze Ching Polly</p>
+<p>SUPT (1A) Ting Tze Ching Polly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Commandant NPCC</p>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DSP(2) Rabaah Jan</p>
+<p>SUPT (1) Rabaah Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Corporate Services</p>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vacant</p>
+<p>Mr Benson Khoe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Operations</p>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASP Abdul Rahman Bin Mohammad Karim</p>
+<p>ASP (2) Abdul Rahman Bin Mohammad Karim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sea Liaison Officer</p>
@@ -171,7 +171,7 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Kamal Bin Abdul Rahman</p>
+<p>Mr Lee Yoon Teng (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative &amp; Store Officer</p>
@@ -327,6 +327,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SC2 Asraf Ali Razik Jabbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Field Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SC2 Long Junze</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field Instructor</p>
