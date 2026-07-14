@@ -5,10 +5,10 @@ description: ""
 variant: markdown
 ---
 <a href="/htccouncil/">![](/images/people-red.png)
-### <center> Home Team Corps Council</center></a>
+### <center> Home Team Corps Council</center>
 
-<a href="/NPCCHQTeam/">![](/images/people-blue.png)
-### <center>NPCC HQ Team</center></a>
+</a><a href="/NPCCHQTeam/">![](/images/people-blue.png)
+### <center>NPCC HQ Team</center>
 
-<a href="/NPCCAC/">![](/images/people-blue.png)
+</a><a href="/NPCCAC/">![](/images/people-blue.png)
 ### <center>NPCC ACs</center></a>
